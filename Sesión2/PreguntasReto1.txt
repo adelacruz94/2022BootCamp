@@ -1,0 +1,11 @@
+Preguntas Reto 1
+
+1. ¿Qué solución presenta el código?
+Una calculador básica, capaz de operar 2 números y elegir que operación se desea realizar con esos 2 números
+
+2. ¿Cómo comprobaron que no había errores de sintaxis?
+Se hizo ejecutando el proyecto, aquí se compila y se levanta la consola para mostrar el menú.
+
+3. ¿Cómo comprobaron que no habían errores semánticos?
+Realizamos varias pruebas para validar el funcionamiento correcto del codigo, encontramos un error por ejemplo en la división,
+si se divide por 0 da error. Aqui se debe colocar una validación.

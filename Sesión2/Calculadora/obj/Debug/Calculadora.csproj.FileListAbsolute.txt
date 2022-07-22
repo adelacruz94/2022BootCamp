@@ -1,0 +1,6 @@
+C:\Users\HP15DW004LA\source\repos\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\HP15DW004LA\source\repos\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\HP15DW004LA\source\repos\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\HP15DW004LA\source\repos\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\HP15DW004LA\source\repos\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\HP15DW004LA\source\repos\Calculadora\obj\Debug\Calculadora.pdb
